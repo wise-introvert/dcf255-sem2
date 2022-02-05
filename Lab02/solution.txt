@@ -29,3 +29,31 @@
 le Mail Transfer Protocol (SMTP) and the Internet Assigned Numbers Authority.
 2. Top-level Domain Name Space is managed by the Internet Corporation for Assigned Names and Numbers ( ICANN ).Root Domain Name System, on the other hand, is managed by the Internet Assigned Numbers Authority ( IANA )
 3. Vinton Cerf helped form the Internet Corporation for Assigned Names and Numbers ( ICANN ) and served as it's chariman
+4. The Internet Engineering Task Force is responsible for publishing Request For Comments
+5. They both offer link, application port, socket and protocol.
+6. The RFC number is 527. It's a parody to a poem called "Jabberwocky" written by Lewis Carroll.
+7. Tim Berners-Lee
+8. i.    HTML
+   ii.   XML
+   iii.  XHTML
+   iv.   XML Schema
+   v.    XQuery
+   vi.   RDF
+   vii.  RDF Schema Language
+   viii. OWL
+   ix.   XPATH
+   x.    XSLT
+9. IEEE is located in New York City, New York. It's logo illustrates the right-hand grip rule.
+10. IEEE 802.11i
+11. Yes, it is a non-profit organization. It's goal is to grow the wifi industry and achieve global standard for high speed wifi networking.
+12. Secretary-General of the International Telecommunication Union 
+13. The ITU facilitates telecommuncation operations and services. It's located in Geneva Switzerland.
+14. i.   Radiocommunication Sector.
+    ii.  Telecommunication Standardization Sector.
+    iii. Telecommunication Development Sector.
+15. RS232 stands for Recommended Standard 232 and was introduced by the Electronic Industry Association and the Telecommunication Industry Association
+16. SpaceWire is a communication network developed for use in spacecrafts.
+17. It's mission is to "promote the open development, evolution, and use of the Internet for the benefit of all people throughout the world" and it is headquartered in Reston, Virginia, USA.
+18. The IAB supervises the Internet Engineering Task Force
+19. The Internet Society oversees the IAB
+20. ISO was founded in the year 1947 and is currently headquartered in Geneva, Switzerland.
