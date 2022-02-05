@@ -1,0 +1,31 @@
+------ Part A ------
+
+-- ISO --
+1. https://www.iso.org
+2. ISO is a network of the national standards bodies (NSBs). It's members include people from over 164 countries that are part of this network.
+3.  a. ISO 9001: set of fourteen quality management standards.
+    b. ISO 27000: defines standards for the Information Technology sector ( security, company asset protection, etc )
+    c. ISO 22000: standard focused on food safety management system.
+
+-- IEEE --
+1. https://www.ieee.org/
+   https://standards.ieee.org/
+2. IEEE is an individual standards making body and has over 400,000 technology and engineering professionals.
+3. a. IEEE 802.15.4: Wireless Sensor
+   b. IEEE 802.15.6: Wireless Body Area Network (e.g. Bluetooth low energy)
+   c. IEEE 802.16: Wireless Networking
+
+-- ITU-T --
+1. https://www.itu.int
+2. https://www.itu.int/en/ITU-T/Pages/default.aspx
+3. ITU-T standardizes the Telecommunication sector and Information Communication Technology. it has 193  member states which includes all the UN member states (except for the Republic of Palau).
+4. a. ASN.1 (Abstract Syntax Notation One)
+   b. Coding of audio (G.711 and G.72x series)
+   c. Coding of still images (JPEG T.8x, JPEG 2000 T.80x and JPEG XR T.83x series)
+
+
+------ Part B ------
+1. Jonathan Bruce Postel was a computer scientist. He was responsible for the development of the Internet. He was also responsible for updating the Request for Comment (RFC) document, the Simp
+le Mail Transfer Protocol (SMTP) and the Internet Assigned Numbers Authority.
+2. Top-level Domain Name Space is managed by the Internet Corporation for Assigned Names and Numbers ( ICANN ).Root Domain Name System, on the other hand, is managed by the Internet Assigned Numbers Authority ( IANA )
+3. Vinton Cerf helped form the Internet Corporation for Assigned Names and Numbers ( ICANN ) and served as it's chariman
